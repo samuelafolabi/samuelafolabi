@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Ethers.js, wagmi.sh, rainbowkit**
 
-- 👯 I’m collaborating with others on a [Web3 project](https://github.com/AngelofPc/dropbingo)
+- 👯 I’m collaborating with other techies on a [Web3 project](https://github.com/AngelofPc/dropbingo)
 
 - 📫 Reach out to me via **folaborn2013@gmail.com**
 
