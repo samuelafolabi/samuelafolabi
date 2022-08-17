@@ -1,5 +1,5 @@
 <img src="header.png" width="100%"/>
-<h4 align="center">..creating seamless digital web experiences aimed at fulfilling users' needs, promoting brands and aggrandizing businesses.</h4>
+<h4 align="center">...creating seamless digital web experiences aimed at fulfilling users' needs, promoting brands and aggrandizing businesses.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelafolabi&label=Profile%20views&color=0e75b6&style=flat" alt="samuelafolabi" /> </p>
 
