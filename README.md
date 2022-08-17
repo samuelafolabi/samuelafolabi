@@ -1,5 +1,5 @@
 <img src="header.png" width="100%"/>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h4 align="center">..creating seamless digital web experiences aimed at fulfilling users' needs, promoting brands and aggrandizing businesses.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelafolabi&label=Profile%20views&color=0e75b6&style=flat" alt="samuelafolabi" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m collaborating with others on [Web3 project](https://github.com/AngelofPc/dropbingo)
 
-- 📫 Reach me vua **folaborn2013@gmail.com**
+- 📫 Reach me via **folaborn2013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
