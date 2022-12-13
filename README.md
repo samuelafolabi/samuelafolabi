@@ -1,18 +1,12 @@
 <img src="header.png" width="100%"/>
 <h4 align="center">...creating seamless digital web experiences aimed at fulfilling users' needs, promoting brands and aggrandizing businesses.</h4>
-https://holopin.io/api/user/board?user=samuelafolabi
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelafolabi&label=Profile%20views&color=0e75b6&style=flat" alt="samuelafolabi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelafolabi" alt="samuelafolabi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/folabornn" target="blank"><img src="https://img.shields.io/twitter/follow/folabornn?logo=twitter&style=for-the-badge" alt="folabornn" /></a> </p>
-
-- 🔭 I’m currently working on [Dalukwa](www.dalukwa.com)
-
-- 🌱 I’m currently learning **Ethers.js, wagmi.sh, rainbowkit**
-
-- 👯 I’m collaborating with other techies on a [Web3 project](https://github.com/AngelofPc/dropbingo)
 
 - 📫 Reach out to me via **folaborn2013@gmail.com**
 
