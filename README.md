@@ -7,7 +7,6 @@
 
 - 📫 Reach out to me via **folaborn2013@gmail.com**
 
-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelafolabi"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +16,7 @@
 <a href="https://www.behance.net/samuelafolabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="samuelafolabi" height="30" width="40" /></a>
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelafolabi&hide_progress=true)
 
 
 
