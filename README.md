@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me via **folaborn2013@gmail.com**
 
-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelafolabi"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
