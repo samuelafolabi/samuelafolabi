@@ -7,7 +7,7 @@
 
 [![@Samuel's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@samuelafolabi)
 
-- 📫 Reach out to me via **folaborn2013@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
