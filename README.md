@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thatweb3guy1" target="blank"><img src="https://img.shields.io/twitter/follow/thatweb3guy1?logo=twitter&style=for-the-badge" alt="thatweb3guy1" /></a> </p>
 
-[![@Samuel's Holopin board](https://holopin.io/api/user/board?user=samuel)](https://holopin.io/@samuelafolabi)
+[![@Samuel's Holopin board](https://holopin.io/api/user/board?user=samuelafolabi)](https://holopin.io/@samuelafolabi)
 
 
 
